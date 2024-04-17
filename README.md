@@ -26,3 +26,5 @@ Module 19 (Using a convolutional neural network to create a basic image classifi
 Module 20 (Sentiment Analysis using deep learning on IMBD reviews)
 
 Module 21 (Natural Language Processing / Deep Learning using an encoder model on airline review data)
+
+Sector Indices Stock Analysis(Data Visualization Project) Visualizing correlation with Stock Sector Indices.
