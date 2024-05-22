@@ -30,3 +30,5 @@ Module 21 (Natural Language Processing / Deep Learning using an encoder model on
 Sector Indices Stock Analysis(Data Visualization Project) Visualizing correlation with Stock Sector Indices.
 
 Updated Sector Indices Analysis - Analyzing daily returns
+
+Helpful Functions for Portfolio Risk Management
